@@ -1,0 +1,16 @@
+body {
+    background: ghostwhite;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.mars-color {
+    color: #d33d1f;
+}
+
+.earth-color {
+    color: #2a8442;
+}
