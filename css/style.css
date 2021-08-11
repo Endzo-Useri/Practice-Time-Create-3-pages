@@ -24,9 +24,14 @@ h1 {
 .style-btn {
     display: inline-block;
     background: cornflowerblue;
-    padding: 2px 5px;
-    /* font-weight: 700; */
+    padding: 4px 10px;
+    font-weight: 700;
     text-decoration: none;
     border-radius: 50px;
     margin-top: 5px;
+}
+
+.style-btn:hover,
+.style-btn:focus {
+    color: red;
 }
