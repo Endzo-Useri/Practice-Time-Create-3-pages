@@ -57,10 +57,10 @@ select {
 
 body {
 	border: 5px solid red;
-    background: ghostwhite;
-    font-family: 'Roboto', sans-serif;
-    /* margin-left: 25px; */
-    margin: 0;
+	background: ghostwhite;
+	font-family: 'Roboto', sans-serif;
+	/* margin-left: 25px; */
+	margin: 0;
 }
 
 h1 {
