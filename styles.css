@@ -74,6 +74,10 @@ h1 {
 	font-size: 3.75em;
 }
 
+img {
+	width: 100%;
+}
+
 .container {
 	border: 5px solid red;
 	width: 510px;
