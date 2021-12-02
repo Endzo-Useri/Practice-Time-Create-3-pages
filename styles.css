@@ -115,11 +115,14 @@ img {
 	font-weight: 700;
 	text-decoration: none;
 	border-radius: 50px;
+	transition: transform 250ms ease-in-out;
 }
 
 .style-btn:hover,
-.style-btn:focus {
+.style-btn:focus-visible {
 	color: bisque;
+	outline-offset: .5rem;
+	transform: scale(1.05)
 }
 
 .style-btn:active {
