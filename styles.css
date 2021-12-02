@@ -79,7 +79,7 @@ img {
 }
 
 .container {
-	border: 5px solid red;
+	/* border: 5px solid red; */
 	max-width: 510px;
 	margin: 0 auto;
 }
@@ -101,7 +101,7 @@ img {
 /* opening p */
 
 .intro {
-	font-size: 20px;
+	font-size: 1.25rem;
 }
 
 /* buttons */
