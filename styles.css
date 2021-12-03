@@ -106,7 +106,7 @@ img {
 
 /* buttons */
 
-.style-btn {
+.btn {
 	display: inline-block;
 	background: cornflowerblue;
 	color: #000;
@@ -118,13 +118,13 @@ img {
 	transition: transform 250ms ease-in-out;
 }
 
-.style-btn:hover,
-.style-btn:focus-visible {
+.btn:hover,
+.btn:focus-visible {
 	color: bisque;
 	outline-offset: .5rem;
 	transform: scale(1.05)
 }
 
-.style-btn:active {
+.btn:active {
 	color: red;
 }
